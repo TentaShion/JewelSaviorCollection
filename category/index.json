@@ -1,0 +1,26 @@
+[
+    {
+        "index": 0,
+        "title": "Normal"
+    },
+    {
+        "index": 1,
+        "title": "Normal+"
+    },
+    {
+        "index": 2,
+        "title": "Rare"
+    },
+    {
+        "index": 3,
+        "title": "Rare+"
+    },
+    {
+        "index": 4,
+        "title": "Super Rare"
+    },
+    {
+        "index": 5,
+        "title": "Super Rare+"
+    }
+]
